@@ -1,4 +1,4 @@
-Learned how to add the following in an html website
+Simple html recipe site
 
 -linked pages
 -ordered and unordered lists
