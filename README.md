@@ -1,1 +1,1 @@
-# odin-recipes
+Project and what I learned
