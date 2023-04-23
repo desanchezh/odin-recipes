@@ -1,9 +1,13 @@
 * {
     text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-ul, ol, li {
-    text-align: center;
+ul, ol {
     list-style-position: inside;
-    text-align: center;
+    width: 800px; 
+	margin-left: auto; 
+	margin-right: auto; 
 }
