@@ -1,7 +1,7 @@
-* {
+body {
     text-align: center;
     background-color: black;
-    color: rgb(255, 255, 255);
+    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -17,12 +17,9 @@ img {
     width: 500px;
 }
 
-.Home-Recipe-Links {
+button, .Home-Button, .Home-Recipe-Links {
+    background-color: coral;
+    color: white;
     font-size: 20px;
     font-weight: bold;
-}
-
-button, a {
-    background-color:red;
-    color: white;
 }
