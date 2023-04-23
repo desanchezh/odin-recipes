@@ -5,4 +5,4 @@ ordered and unordered lists
 images
 headers
 
-Exteranal CSS file
+External CSS file
